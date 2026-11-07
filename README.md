@@ -1,23 +1,99 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&custom_color_1=0f2027&custom_color_2=2c5364&height=220&section=header&text=iBungT6767.DEV&fontSize=50&fontColor=ffffff&textBg=false&animation=fadeIn&desc=FullStack%20Engineer%20%7C%7C%20SYSTEM%20ONLINE&descSize=18&descAlignY=40&descAlign=50&textAlignY=20" width="100%" alt="Header Banner" />
-</p>
+ <!-- HEADER -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=I'm+a+Computer+Engineering+student+and+Full-stack+Developer.;I'm+currently+working+on+self-hosted+web+platforms.;Tech+Stack%3A+Python%2C+TypeScript%2C+Next.js%2C+PostgreSQL%2C+Prisma.;Fun+fact%3A+Big+fan+of+strategy+games+and+smart+automated+systems." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172B3A,100:00C2D6&height=210&section=header&text=iBungT6767&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=60&descSize=17" width="100%" />
+</p>
+
+<h3 align="center">
+  Hi there, I'm iBungT6767 👋
+</h3>
+
+<h2 align="center">
+  Full-Stack Developer 💻
+  <br/>
+  Computer Engineering Student 🎓
+</h2>
+
+<p align="center">
+  Passionate about building modern web applications, scalable systems,
+  <br/>
+  and intelligent solutions through technology.
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💻 I'm a Computer Engineering student and Full-Stack Developer.
+- 🌐 Interested in building modern web applications and backend systems.
+- 🤖 Exploring AI integration, RAG architecture, and intelligent applications.
+- ⚙️ Enjoy designing databases, developing APIs, and optimizing system architecture.
+- 🚀 Always learning new technologies and turning ideas into real-world projects.
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://github.com/iBungT6767">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iBungT6767&color=00d2ff&style=flat-square" alt="Profile Views" />
-</p>
+- 💬 Feel free to contact me for collaboration, questions, or interesting projects!
+
+---
+
+### 🔭 I'm currently working on
+
+- 🤖 **SUNFORD AI** — Building an intelligent company knowledge assistant using OpenAI API and RAG architecture.
+- 🌐 **SUNFORD Web Platform** — Developing a self-hosted enterprise web application with modern web technologies.
+- 🧠 **NFSP Poker AI Agent** — Exploring reinforcement learning and AI agents for No-Limit Texas Hold'em.
+- 🖥️ **PC Lab Management System** — Developing a client-server application for managing and monitoring PC lab environments over LAN.
+
+---
+
+### 🌱 I'm currently learning
+
+- ⚡ Next.js & TypeScript
+- 🐍 Python & Backend Development
+- 🗄️ PostgreSQL & Prisma ORM
+- 🤖 Retrieval-Augmented Generation (RAG)
+- 🧠 Machine Learning & Reinforcement Learning
+- 🐳 Docker & System Architecture
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,nextjs,postgres,prisma,tailwind,git,docker,windows&theme=dark" alt="Tech Stack Icons" />
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,html,css&theme=dark" />
+</p>
+
+**Frontend & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,flask&theme=dark" />
+</p>
+
+**Database & ORM**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma&theme=dark" />
+</p>
+
+**Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,windows,linux&theme=dark" />
+</p>
+
+**AI & Machine Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
 </p>
 
 ---
@@ -26,21 +102,49 @@
 
 <p align="center">
   <a href="https://github.com/iBungT6767/PC-Lab-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iBungT6767&repo=PC-Lab-Management-System&theme=radical&show_owner=false" alt="PC Lab Management System" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iBungT6767&repo=PC-Lab-Management-System&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🖥️ **[PC Lab Management System](https://github.com/iBungT6767/PC-Lab-Management-System)** | Client-Server desktop application for managing and monitoring PC lab environments via LAN. | `Python` `Sockets` `GUI` |
-| 🌐 **Sunford Web Platform** | Self-hosted enterprise web application designed for scalable business workflow management. | `Next.js` `Prisma` `PostgreSQL` |
-| 🤖 **NFSP Poker AI Agent** | Deep reinforcement learning agent trained on No-Limit Texas Hold'em with custom UI. | `Python` `PyTorch` `CUDA` |
+- 🖥️ **PC Lab Management System**
+  - Client-server desktop application for managing PC lab environments.
+  - `Python` `Socket Programming` `GUI`
+
+- 🌐 **SUNFORD Web Platform**
+  - Self-hosted enterprise web application for business workflow management.
+  - `Next.js` `Prisma` `PostgreSQL`
+
+- 🤖 **SUNFORD AI**
+  - AI-powered company knowledge assistant with RAG-based retrieval.
+  - `OpenAI API` `RAG` `TypeScript`
+
+- 🧠 **NFSP Poker AI Agent**
+  - Exploring AI agents and reinforcement learning for poker.
+  - `Python` `PyTorch` `CUDA`
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iBungT6767&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBungT6767&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iBungT6767&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBungT6767&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iBungT6767&theme=github-dark-blue&hide_border=true" width="75%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code. Create. Improve. Repeat."</i>
+</p>
+
+<h3 align="center">
+  Thanks for visiting my GitHub profile! 💙
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172B3A,100:00C2D6&height=100&section=footer" width="100%" />
 </p>
