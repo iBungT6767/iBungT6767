@@ -75,19 +75,19 @@
 **Frontend & Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,flask&theme=dark" />
 </p>
 
 **Database & ORM**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
 </p>
 
 **Development Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,windows,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,windows&theme=dark" />
 </p>
 
 **AI & Machine Learning**
@@ -109,14 +109,6 @@
 - 🖥️ **PC Lab Management System**
   - Client-server desktop application for managing PC lab environments.
   - `Python` `Socket Programming` `GUI`
-
-- 🌐 **SUNFORD Web Platform**
-  - Self-hosted enterprise web application for business workflow management.
-  - `Next.js` `Prisma` `PostgreSQL`
-
-- 🤖 **SUNFORD AI**
-  - AI-powered company knowledge assistant with RAG-based retrieval.
-  - `OpenAI API` `RAG` `TypeScript`
 
 - 🧠 **NFSP Poker AI Agent**
   - Exploring AI agents and reinforcement learning for poker.
