@@ -1,11 +1,13 @@
  <!-- HEADER -->
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172B3A,100:00C2D6&height=210&section=header&text=iBungT6767&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=60&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172B3A,100:00C2D6&height=210&section=header&text=iBungT.DEV&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=60&descSize=17" width="100%" />
 </p>
 
+
 <h3 align="center">
-  Hi there, I'm iBungT6767 👋
+  Hi there, I'm iBungT.DEV 👋
 </h3>
 
 <h2 align="center">
