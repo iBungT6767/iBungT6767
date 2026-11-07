@@ -24,7 +24,10 @@
 
 ---
 
-### 👨‍💻 About Me
+<!-- ABOUT ME -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:172B3A&height=90&section=header&text=ABOUT%20ME&fontSize=28&fontColor=00C2D6&animation=fadeIn" width="100%" />
+</p>
 
 - 💻 I'm a Computer Engineering student and Full-Stack Developer.
 - 🌐 Interested in building modern web applications and backend systems.
