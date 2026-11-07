@@ -129,39 +129,45 @@
 </p>
 
 
-<!-- PC LAB MANAGEMENT SYSTEM -->
+<badge color="success">GitHub README Compatible</badge>
+
+<CodeBlock language="html" editable>
+<!-- FEATURED PROJECT: PC LAB MANAGEMENT SYSTEM -->
 
 <table width="100%">
   <tr>
-    <td>
+    <td width="100%">
 
-      <h3>
-        🖥️ PC Lab Management System
-        <img src="https://img.shields.io/badge/MY%20PROJECT-00C2D6?style=flat-square&logoColor=white" />
-      </h3>
+      <h3>🖥️ PC Lab Management System</h3>
 
-      <p>
-        A client-server desktop application for managing
-        and monitoring PC lab environments over LAN.
+<p>
+  <img src="https://img.shields.io/badge/MY_PROJECT-00C2D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket_Programming-172B3A?style=flat-square" />
+  <img src="https://img.shields.io/badge/GUI-00C2D6?style=flat-square" />
+</p>
+
+
+<p>
+        A client-server desktop application designed to
+        manage and monitor PC lab environments over LAN.
       </p>
 
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Socket%20Programming-172B3A?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/GUI-00C2D6?style=flat-square&logoColor=white" />
+<p>
+        <b>👨‍💻 Developer:</b> iBungT.DEV
       </p>
 
-      <p>
-        👨‍💻 Developed by <b>iBungT.DEV</b>
-      </p>
+<p>
+  <a href="https://github.com/iBungT6767/PC-Lab-Management-System">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2D6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-      <a href="https://github.com/iBungT6767/PC-Lab-Management-System">
-        <img src="https://img.shields.io/badge/VIEW%20PROJECT-00C2D6?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
 
-    </td>
+</td>
   </tr>
 </table>
+</CodeBlock>
 
 
 - 🖥️ **PC Lab Management System**
