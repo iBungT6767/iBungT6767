@@ -119,15 +119,18 @@
 
 ---
 
-### 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/streak.svg" width="80%" alt="GitHub Streak Statistics" />
+  <img src="https://streak-stats.demolab.com?user=iBungT6767&theme=github-dark-blue&hide_border=true&background=1B1B27&ring=6A9BFF&fire=6A9BFF&currStreakLabel=B58AF0&currStreakNum=B58AF0&sideLabels=76A7FF&sideNums=76A7FF&dates=43CFC0" width="90%" alt="GitHub Streak Statistics" />
 </p>
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
 
----
+<h3 align="center">Thanks for visiting my GitHub profile! 💙</h3>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172B3A,100:00C2D6&height=100&section=footer" width="100%" />
+</p>
