@@ -9,6 +9,14 @@
 
 ---
 
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,ts,nextjs,postgres,prisma,tailwind,git,docker,windows&theme=dark" alt="Tech Stack Icons" />
+</p>
+
+---
+
 ### 🛠️ Featured Projects
 
 | Project | Description | Tech Stack |
