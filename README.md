@@ -9,6 +9,16 @@
 
 ---
 
+### 🛠️ Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🖥️ **[PC Lab Management System](https://github.com/iBungT6767/PC-Lab-Management-System)** | Client-Server desktop application for managing and monitoring PC lab environments via local network (LAN). | `Python` `Sockets` `GUI` |
+| 🌐 **Sunford Web Platform** | Self-hosted enterprise web application designed for scalable business workflow management. | `Next.js` `Prisma` `PostgreSQL` `Tailwind` |
+| 🤖 **NFSP Poker AI Agent** | Deep reinforcement learning agent trained on No-Limit Texas Hold'em with a custom desktop UI. | `Python` `PyTorch` `CUDA` `Tkinter` |
+
+---
+
 ### 📊 GitHub Stats & Skills
 
 <p align="center">
