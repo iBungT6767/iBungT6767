@@ -38,7 +38,10 @@
 ---
 
 
-### 🤝 Connect with me
+<!-- CONNECT WITH ME -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:172B3A&height=90&section=header&text=CONNECT%20WITH%20ME&fontSize=28&fontColor=00C2D6&animation=fadeIn" width="100%" />
+</p>
 
 <p align="left">
   <a href="mailto:teamna093@gmail.com">
@@ -57,27 +60,36 @@
 - 💬 Feel free to contact me for collaboration or interesting projects!
 
 
-### 🔭 I'm currently working on
+<!-- CURRENTLY WORKING ON -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:172B3A&height=90&section=header&text=WHAT%20I'M%20BUILDING&fontSize=28&fontColor=00C2D6&animation=fadeIn" width="100%" />
+</p>
 
 - 🤖 **SUNFORD AI** — Building an intelligent company knowledge assistant using OpenAI API and RAG architecture.
-- 🌐 **SUNFORD Web Platform** — Developing a self-hosted enterprise web application with modern web technologies.
 - 🧠 **NFSP Poker AI Agent** — Exploring reinforcement learning and AI agents for No-Limit Texas Hold'em.
 - 🖥️ **PC Lab Management System** — Developing a client-server application for managing and monitoring PC lab environments over LAN.
 
 ---
 
-### 🌱 I'm currently learning
+<!-- CURRENTLY LEARNING -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:172B3A&height=90&section=header&text=CURRENTLY%20LEARNING&fontSize=28&fontColor=00C2D6&animation=fadeIn" width="100%" />
+</p>
 
 - ⚡ Next.js & TypeScript
 - 🐍 Python & Backend Development
-- 🗄️ PostgreSQL & Prisma ORM
+- 🗄️ PostgreSQL
 - 🤖 Retrieval-Augmented Generation (RAG)
 - 🧠 Machine Learning & Reinforcement Learning
 - 🐳 Docker & System Architecture
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<!-- TECH STACK -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:172B3A&height=90&section=header&text=TECH%20STACK&fontSize=28&fontColor=00C2D6&animation=fadeIn" width="100%" />
+</p>
+
 
 **Languages**
 
@@ -111,7 +123,10 @@
 
 ---
 
-### 🚀 Featured Projects
+<!-- FEATURED PROJECTS -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:172B3A&height=90&section=header&text=FEATURED%20PROJECTS&fontSize=28&fontColor=00C2D6&animation=fadeIn" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/iBungT6767/PC-Lab-Management-System">
@@ -133,7 +148,10 @@
 ---
 
 
-### 📊 GitHub Statistics
+<!-- GITHUB STATISTICS -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:172B3A&height=90&section=header&text=GITHUB%20STATISTICS&fontSize=28&fontColor=00C2D6&animation=fadeIn" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/iBungT6767">
