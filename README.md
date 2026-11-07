@@ -32,17 +32,25 @@
 
 ---
 
+
 ### 🤝 Connect with me
 
 <p align="left">
+  <a href="mailto:teamna093@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/teamm_ee/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://github.com/iBungT6767">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-- 💬 Feel free to contact me for collaboration, questions, or interesting projects!
+- 📧 Email: teamna093@gmail.com
+- 📸 Instagram: [@teamm_ee](https://www.instagram.com/teamm_ee/)
+- 💬 Feel free to contact me for collaboration or interesting projects!
 
----
 
 ### 🔭 I'm currently working on
 
