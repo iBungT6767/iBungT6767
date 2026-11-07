@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iBung.DEV&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iBungT6767&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 - 💻 I’m a Computer Engineering student and Full-stack Developer.
