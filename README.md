@@ -128,11 +128,41 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:172B3A&height=90&section=header&text=FEATURED%20PROJECTS&fontSize=28&fontColor=00C2D6&animation=fadeIn" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/iBungT6767/PC-Lab-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iBungT6767&repo=PC-Lab-Management-System&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+
+<!-- PC LAB MANAGEMENT SYSTEM -->
+
+<table width="100%">
+  <tr>
+    <td>
+
+      <h3>
+        🖥️ PC Lab Management System
+        <img src="https://img.shields.io/badge/MY%20PROJECT-00C2D6?style=flat-square&logoColor=white" />
+      </h3>
+
+      <p>
+        A client-server desktop application for managing
+        and monitoring PC lab environments over LAN.
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket%20Programming-172B3A?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/GUI-00C2D6?style=flat-square&logoColor=white" />
+      </p>
+
+      <p>
+        👨‍💻 Developed by <b>iBungT.DEV</b>
+      </p>
+
+      <a href="https://github.com/iBungT6767/PC-Lab-Management-System">
+        <img src="https://img.shields.io/badge/VIEW%20PROJECT-00C2D6?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+
+    </td>
+  </tr>
+</table>
+
 
 - 🖥️ **PC Lab Management System**
   - Client-server desktop application for managing PC lab environments.
