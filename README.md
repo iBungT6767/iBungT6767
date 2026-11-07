@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&custom_color_1=00d2ff&custom_color_2=928dab&height=220&section=header&text=iBungT6767.DEV&fontSize=55&fontColor=ffffff&desc=FullStack%20Engineer%20%7C%7C%20SYSTEM%20ONLINE&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&custom_color_1=0f2027&custom_color_2=2c5364&height=220&section=header&text=iBungT6767.DEV&fontSize=50&fontColor=ffffff&textBg=false&animation=fadeIn&desc=FullStack%20Engineer%20%7C%7C%20SYSTEM%20ONLINE&descSize=18&descAlignY=40&descAlign=50&textAlignY=20" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -14,15 +14,15 @@
 
 ---
 
- Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,nextjs,postgres,tailwind,git,docker,windows&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,ts,nextjs,postgres,prisma,tailwind,git,docker,windows&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 ---
 
- Featured Projects
+### 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/iBungT6767/PC-Lab-Management-System">
@@ -33,11 +33,12 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🖥️ **[PC Lab Management System](https://github.com/iBungT6767/PC-Lab-Management-System)** | Client-Server desktop application for managing and monitoring PC lab environments via LAN. | `Python` `Sockets` `GUI` |
+| 🌐 **Sunford Web Platform** | Self-hosted enterprise web application designed for scalable business workflow management. | `Next.js` `Prisma` `PostgreSQL` |
 | 🤖 **NFSP Poker AI Agent** | Deep reinforcement learning agent trained on No-Limit Texas Hold'em with custom UI. | `Python` `PyTorch` `CUDA` |
 
 ---
 
- GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iBungT6767&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
