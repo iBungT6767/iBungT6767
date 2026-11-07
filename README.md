@@ -116,27 +116,18 @@
 
 ---
 
+
+---
+
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iBungT6767&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBungT6767&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img src="./profile/streak.svg" width="80%" alt="GitHub Streak Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iBungT6767&theme=github-dark-blue&hide_border=true" width="75%" />
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
 
 ---
 
-<p align="center">
-  <i>"Code. Create. Improve. Repeat."</i>
-</p>
-
-<h3 align="center">
-  Thanks for visiting my GitHub profile! 💙
-</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172B3A,100:00C2D6&height=100&section=footer" width="100%" />
-</p>
